@@ -8,6 +8,7 @@ This is a clone of the Disney+ website, built using HTML, CSS, and JavaScript. I
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
+- [License](#license)
 - [Credits](#credits)
 
 ## Features
@@ -54,6 +55,9 @@ Contributions are welcome! If you have any ideas, enhancements, or bug fixes, pl
 4. Commit your changes with descriptive commit messages.
 5. Push your changes to your forked repository.
 6. Create a pull request explaining your changes.
+7. 
+## License
+This project is licensed under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
 ## Credits
 - Shivansh Yadav (https://github.com/iamshivanshyadav)
